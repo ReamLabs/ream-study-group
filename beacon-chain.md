@@ -54,9 +54,10 @@ Study materials on the Ethereum Beacon chain.
 
 - [**Reducing Beacon Chain Bandwidth for Institutional and Home Stakers**](https://www.youtube.com/watch?v=u8JJh-E-VMg) ([slides](https://archive.devcon.org/resources/6/reducing-beacon-chain-bandwidth-for-institutional-and-home-stakers.pdf)) - Adrian Manning, Diva (SigmaPrime/Lighthouse) at Devcon Bogota (Oct 2022)
 - [**Beacon chain design mistakes**](https://www.youtube.com/watch?v=10Ym34y3Eoo) ([slides](https://docs.google.com/presentation/d/1LkxHrXjQyRh2i75R13yjndc_aUp9oXTAdAw538XfJhk/edit?usp=sharing)) - Justin Drake at EthStaker's Staking Gathering (Nov 2023)
+- [**Staking Incidents**](https://ethstaker.cc/incidents) - EthStakers (2023 - 2024)
 - [**Ethereum Node Message Propagation Bandwidth Consumption**](https://ethresear.ch/t/ethereum-node-message-propagation-bandwidth-consumption/19952) - yiannisbot (Jul 2024)
 - [**Where’s the home staking bandwidth research?**](https://ethresear.ch/t/wheres-the-home-staking-bandwidth-research/20507) - ryanberckmans (Sep 2024)
-- [**Staking Incidents**](https://ethstaker.cc/incidents) - EthStakers (2023 - 2024)
+- [Bandwidth Availability in Ethereum: Regional Differences and Network Impacts](https://ethresear.ch/t/bandwidth-availability-in-ethereum-regional-differences-and-network-impacts/21138) - cortze and yiannisbot (Dec 2024)
 
 ## Beacon chain client-specific analyses
 
