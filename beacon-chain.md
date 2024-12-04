@@ -1,8 +1,8 @@
-## Beacon chain
+# Beacon chain
 
 Study materials on the Ethereum Beacon chain.
 
-### Beacon chain specs
+## Beacon chain specs
 - [Ethereum Proof-of-Stake Consensus Specifications](https://ethereum.github.io/consensus-specs/) (2018 - current)
     - This is the official consensus specs. It consists of the base Phase0 specs followed by incremental changes per each upgrade.
         - **Phase0**
@@ -38,19 +38,19 @@ Study materials on the Ethereum Beacon chain.
         - **Deneb** - [WIP]
 - [Ethereum Proof-of-Stake Consensus Spec Tests](https://github.com/ethereum/consensus-spec-tests) (2019 - current) - The test vectors for the consensus specs.
 
-### Beacon chain _annotated_ specs
+## Beacon chain _annotated_ specs
 
 - [Weak Subjectivity in Eth2.0](https://notes.ethereum.org/@adiasg/weak-subjectvity-eth2) - Aditya Asgaonkar (Sep 2020)
 - [Phase 0 for Humans \[v0.10.0\]](https://notes.ethereum.org/@djrtwo/Bkn3zpwxB) - Danny Ryan (Jul 2021)
 - [Upgrading Ethereum: A technical handbook on Ethereum's move to proof of stake and beyond](https://eth2book.info/capella/) - Ben Edgington (2023)
 - [Engine API: A Visual Guide](https://hackmd.io/@danielrachi/engine_api) - Daniel Ramirez (Feb 2024)
 
-### Beacon chain design rationales
+## Beacon chain design rationales
 
 - [Vitalik's annotated eth2 spec with a focus on design rationale](https://github.com/ethereum/annotated-spec) - Vitalik (2020 - current)
 - [Serenity Design Rationale](https://notes.ethereum.org/@vbuterin/serenity_design_rationale) - Vitalik (Jan 2022)
 
-### Beacon chain pitfalls, lessons learnt & improvement ideas
+## Beacon chain pitfalls, lessons learnt & improvement ideas
 
 - [**Reducing Beacon Chain Bandwidth for Institutional and Home Stakers**](https://www.youtube.com/watch?v=u8JJh-E-VMg) ([slides](https://archive.devcon.org/resources/6/reducing-beacon-chain-bandwidth-for-institutional-and-home-stakers.pdf)) - Adrian Manning, Diva (SigmaPrime/Lighthouse) at Devcon Bogota (Oct 2022)
 - [**Beacon chain design mistakes**](https://www.youtube.com/watch?v=10Ym34y3Eoo) ([slides](https://docs.google.com/presentation/d/1LkxHrXjQyRh2i75R13yjndc_aUp9oXTAdAw538XfJhk/edit?usp=sharing)) - Justin Drake at EthStaker's Staking Gathering (Nov 2023)

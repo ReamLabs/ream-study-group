@@ -2,13 +2,14 @@
 
 A collection of learning materials on the Beam chain and Ream client.
 
-# Beacon chain
+## Table of Content
 
-Study materials on our [Beacon chain page](./beacon-chain.md).
+- **Beacon chain** - See the [Beacon chain](./beacon-chain.md) page.
+- **Beam chain** - See [Beam chain](#beam-chain) section below.
 
-# Beam chain
+## Beam chain
 
-## Beam chain proposals
+### Beam chain proposals
 
 - [**Keynote: [title redacted]**](https://www.youtube.com/watch?v=Gjuenkv1zrw) - Justin Drake at Devcon SEA (Nov 2024)
 - [**Ethereum Roadmap & Beamchain**](https://www.youtube.com/watch?v=8mJDt8TGebc) - Justin Drake at Bankless Summit (Nov 2024)
@@ -63,7 +64,7 @@ Study materials on our [Beacon chain page](./beacon-chain.md).
 
 - [**Bundling too many things, however, has problematic characteristics…**](https://x.com/peter_szilagyi/status/1856353010349400398) - Péter Szilágyi (Nov 2024)
 
-## Discussions
+### Discussions
 
 - **Isn't the beam chain roadmap compatible or something existing client teams (Lighthouse, Prysm, Nimbus, etc.) naturally will adopt anyway?**
     
