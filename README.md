@@ -4,8 +4,15 @@ A collection of learning materials on the Beam chain and Ream client.
 
 ## Table of Content
 
+- **Meeting notes** - See [Meeting notes](#meeting-notes) below.
 - **Beacon chain** - See the [Beacon chain](./beacon-chain.md) page.
 - **Beam chain** - See [Beam chain](#beam-chain) section below.
+
+## Meeting Notes
+
+| №   | Date                              | Notes                              |
+| --- | --------------------------------- | -----------------------------------|
+| 002 | Dec 2, 2024, 15:30-16:00 UTC      | [Notes](./meeting-notes/002.md)    |
 
 ## Beam chain
 
