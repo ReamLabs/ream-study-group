@@ -10,12 +10,13 @@ A collection of learning materials on the Beam chain and Ream client.
 
 ## Meeting Notes
 
-| №   | Date                          | Notes                           |
-| --- | ----------------------------- | ------------------------------- |
-| 004 | Dec 17, 2024, 15:30-16:30 UTC | [Notes](./meeting-notes/004.md) |
-| 003 | Dec 10, 2024, 15:30-16:00 UTC | [Notes](./meeting-notes/003.md) |
-| 002 | Dec 2, 2024, 15:30-16:00 UTC  | [Notes](./meeting-notes/002.md) |
-| 001 | Late November, 2024           | Not available                   |
+| №   | Date                          | Notes                           | Recordings                                |
+| --- | ----------------------------- | ------------------------------- | ----------------------------------------- |
+| 005 | Dec 23, 2024, 15:30-16:30 UTC | [Notes](./meeting-notes/005.md) | [Recording](https://youtu.be/JblYpv-SAJo) |
+| 004 | Dec 17, 2024, 15:30-16:30 UTC | [Notes](./meeting-notes/004.md) | [Recording](https://youtu.be/JYYKFzppQrQ) |
+| 003 | Dec 10, 2024, 15:30-16:00 UTC | [Notes](./meeting-notes/003.md) | [Recording](https://youtu.be/2I8SVWsfQkY) |
+| 002 | Dec 2, 2024, 15:30-16:00 UTC  | [Notes](./meeting-notes/002.md) | Not available                             |
+| 001 | Late November, 2024           | Not available                   | Not available                             |
 
 ## Beam chain
 
