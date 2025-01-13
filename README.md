@@ -12,6 +12,8 @@ A collection of learning materials on the Beam chain and Ream client.
 
 | №   | Date                          | Notes                           | Recordings                                |
 | --- | ----------------------------- | ------------------------------- | ----------------------------------------- |
+| 007 | Jan 13, 2024, 15:30-16:30 UTC | [Notes](./meeting-notes/007.md) | [Recording](https://youtu.be/AeGFI3vWWOE) |
+| 006 | Jan 6,  2024, 15:30-16:30 UTC | [Notes](./meeting-notes/006.md) |                                           |
 | 005 | Dec 23, 2024, 15:30-16:30 UTC | [Notes](./meeting-notes/005.md) | [Recording](https://youtu.be/JblYpv-SAJo) |
 | 004 | Dec 17, 2024, 15:30-16:30 UTC | [Notes](./meeting-notes/004.md) | [Recording](https://youtu.be/JYYKFzppQrQ) |
 | 003 | Dec 10, 2024, 15:30-16:00 UTC | [Notes](./meeting-notes/003.md) | [Recording](https://youtu.be/2I8SVWsfQkY) |
