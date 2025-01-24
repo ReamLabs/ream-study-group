@@ -78,6 +78,13 @@ A collection of learning materials on the Beam chain and Ream client.
     - "ZK is a big part of the beam change and increased dependency on EL to have zk. The Beam change is about ZK. Also single slot and faster finality" - Alexi
     - "faster finality would be nice to have, this is a great usability change, francesco (EF) doing lots of work on this" - Guillaume
     - "This is probably my number 1 concern. There are two classes of big projects: things we know how to do but are difficult given the legacy environment and things we don't know how to do yet. Beam chain contains both of these. There are things we can change but are very difficult to do while the airplane is in the air. Need full confidence before we can ship." - lightclient
+- [**Future of Ethereum: Beam Chain**](https://medium.com/@organmo/future-of-ethereum-1-beam-chain-52492e39af62) - Seungmin Jeon (Jan 2025)
+  - Semi-technical elaborations on the Beam Chain objectives:
+    - Shorter/Single-Slot Finality with Orbit SSF
+    - Shortening block time to 4 seconds
+    - Preconfirmations
+    - Chain Snarkification
+    - Quantum-Resistant Signatures
 
 ### Concerns about the Beam chain
 
