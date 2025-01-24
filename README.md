@@ -83,9 +83,6 @@ A collection of learning materials on the Beam chain and Ream client.
 
 - [**Bundling too many things, however, has problematic characteristics…**](https://x.com/peter_szilagyi/status/1856353010349400398) - Péter Szilágyi (Nov 2024)
 
-### Online discourses
-- [Proving multi-client Beam chain](https://ethresear.ch/t/proving-multi-client-beam-chain/21027) - mratsim (Nov 2024)
-
 ### Discussions
 
 - **Isn't the beam chain roadmap compatible or something existing client teams (Lighthouse, Prysm, Nimbus, etc.) naturally will adopt anyway?**
