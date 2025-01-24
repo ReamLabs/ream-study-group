@@ -12,3 +12,5 @@
 ## Codes (Implementation)
 
 - [zkvm-compare](https://github.com/risc0/zkvm-compare) - Benchmark various operations against Risc0 and SP1 zkVM
+- [consensp1us](https://github.com/ReamLabs/consensp1us) - A proof of concept of snarkifying the consensus layer state transition function with SP1 zkVM
+- [consenzero](https://github.com/unnawut/consenzero) - A proof of concept of snarkifying the consensus layer state transition function with Risc0 zkVM
