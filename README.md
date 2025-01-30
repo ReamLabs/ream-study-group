@@ -8,7 +8,7 @@ A collection of learning materials on the Beam chain and Ream client.
 - **Beacon chain** - See the [Beacon chain](./beacon-chain.md) page.
 - **Beam chain** - See [Beam chain](#beam-chain) section below.
 - **Development notes** - See our development notes at [ReamLabs' HackMD](https://hackmd.io/@reamlabs).
-- 
+
 ## Meeting Notes
 
 | №   | Date                          | Notes                           | Recordings                                |
