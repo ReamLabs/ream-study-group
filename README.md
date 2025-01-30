@@ -86,6 +86,12 @@ A collection of learning materials on the Beam chain and Ream client.
     - Chain Snarkification
     - Quantum-Resistant Signatures
 
+### Related specifications
+
+- [Hardware and Bandwidth Requirements for Full Nodes and Validators](https://github.com/ethereum/EIPs/pull/9270)
+  - Original document for hardware requirements: https://hackmd.io/G3MvgV2_RpKxbufsZO8VVg?view
+  - Original document for bandwidth requirements: https://hackmd.io/DsDcxDAVShSSLLwHWdfynQ?view
+
 ### Concerns about the Beam chain
 
 - [**Bundling too many things, however, has problematic characteristics…**](https://x.com/peter_szilagyi/status/1856353010349400398) - Péter Szilágyi (Nov 2024)
