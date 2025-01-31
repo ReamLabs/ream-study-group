@@ -86,6 +86,15 @@ A collection of learning materials on the Beam chain and Ream client.
     - Preconfirmations
     - Chain Snarkification
     - Quantum-Resistant Signatures
+- [Vitalik's Twitter post on the beam chain roadmap](https://x.com/VitalikButerin/status/1885046277932552697) - Vitalik Buterin (Jan 2025)
+  - By 2030, we need other things:
+    - Long-term robust economics
+    - Long-term robust staking decentralization
+    - A clean and simple protocol, something worthy of a chain that aspires to be a neutral global base layer. This means __zeroing out huge amounts of technical bloat__
+    - Security (see also: https://verified-zkevm.org , which [@alexanderlhicks](https://x.com/alexanderlhicks) has done a lot to get to its current state)
+    - Fully verifying light clients that can work on even the smallest devices
+    - Quantum-resistance (BTW this item is also one of the big reasons why "no AA, just keep EOAs + 7702" is NOT a valid option for ethereum long-term, we have to actually abstract the verification function as well, eg. see EIP-7701)
+  - The beam chain roadmap delivers on all of these items. It is a necessary complement to all of the important short-term work that we need to get done.
 
 ### Related specifications
 
