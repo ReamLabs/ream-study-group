@@ -9,7 +9,8 @@
 
 ## Articles
 
-- [Hash-based Signatures](https://hackmd.io/@pmuens/HkcCMejEJl) by @pmuens: Great introduction to understand hash-based signatures
+- [Hash-Based Signatures](https://hackmd.io/@pmuens/HkcCMejEJl) ([Presentation](https://www.youtube.com/watch?v=JblYpv-SAJo)) by [@pmuens](https://github.com/pmuens): Great introduction to understand Hash-Based Signatures
+- [Hash-Based Multi-Signatures for Post-Quantum Ethereum](https://hackmd.io/@pmuens/r1Ehuixtkg) ([Presentation](https://www.youtube.com/watch?v=LK8YSviGA94)) by [@pmuens](https://github.com/pmuens): Explanation on how Hash-Based Signatures will be used in the Beam Chain
 
 ## Codes (Implementation)
 
