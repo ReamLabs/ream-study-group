@@ -41,7 +41,7 @@ A collection of learning materials on the Beam chain and Ream client.
 
 ### Beam chain proposals
 
-- [**Keynote: [title redacted]**](https://www.youtube.com/watch?v=Gjuenkv1zrw) - Justin Drake at Devcon SEA (Nov 2024)
+- [**Keynote: [title redacted]**](https://www.youtube.com/watch?v=lRqnFrqpq4k) - Justin Drake at Devcon SEA (Nov 2024)
 - [**Ethereum Roadmap & Beamchain**](https://www.youtube.com/watch?v=8mJDt8TGebc) - Justin Drake at Bankless Summit (Nov 2024)
 - [**Deep Dive into Ethereum's Beam Chain**](https://www.youtube.com/watch?v=88FDeg5JaUk) - Justin Drake with The Defiant (Nov 2024)
     - Proposing to rewrite the consensus layer instead of applying incremental upgrades
