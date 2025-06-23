@@ -13,6 +13,7 @@ A collection of learning materials on the Beam chain and Ream client.
 
 | №   | Date                          | Notes                           | Recordings                                |
 | --- | ----------------------------- | ------------------------------- | ----------------------------------------- |
+| 028 | Jun 23, 2025, 14:30-15:00 UTC | [Notes](./meeting-notes/028.md) | Not available                             |
 | 027 | Jun 16, 2025, 14:30-15:20 UTC | [Notes](./meeting-notes/027.md) | Not available                             |
 | 026 | Jun 9, 2025, 14:30-15:00 UTC  | [Notes](./meeting-notes/026.md) | Not available                             |
 | 025 | Jun 2, 2025, 14:30-15:00 UTC  | [Notes](./meeting-notes/025.md) | Not available                             |
@@ -34,7 +35,7 @@ A collection of learning materials on the Beam chain and Ream client.
 | 009 | Feb 3, 2025, 14:30-15:30 UTC  | [Notes](./meeting-notes/009.md) | [Recording](https://youtu.be/W_IOIjM2WBM) |
 | 008 | Jan 27, 2025, 14:30-15:10 UTC | [Notes](./meeting-notes/008.md) | [Recording](https://youtu.be/BuUxOhd9VbI) |
 | 007 | Jan 13, 2025, 14:30-15:10 UTC | [Notes](./meeting-notes/007.md) | [Recording](https://youtu.be/AeGFI3vWWOE) |
-| 006 | Jan 6, 2025, 14:30-15:30 UTC | [Notes](./meeting-notes/006.md) | Not available                             |
+| 006 | Jan 6, 2025, 14:30-15:30 UTC  | [Notes](./meeting-notes/006.md) | Not available                             |
 | 005 | Dec 23, 2024, 14:30-15:30 UTC | [Notes](./meeting-notes/005.md) | [Recording](https://youtu.be/JblYpv-SAJo) |
 | 004 | Dec 17, 2024, 14:30-15:30 UTC | [Notes](./meeting-notes/004.md) | [Recording](https://youtu.be/JYYKFzppQrQ) |
 | 003 | Dec 10, 2024, 14:30-15:30 UTC | [Notes](./meeting-notes/003.md) | [Recording](https://youtu.be/2I8SVWsfQkY) |
