@@ -95,7 +95,7 @@ A collection of learning materials on the Beam chain and Ream client.
         - “If you consume the sequencing, we say that you’re based.”
         - “If you consume the virtual machine, we say that you are native.”
         - “If you do all these things, i.e. you are a based, native, and a rollup, then you are an ultrasound rollup, you are the maximally aligned thing possible. But it’s up to you how determined you want to be aligned with Ethereum.”
-- [**Beam chain tldr**](https://www.youtube.com/watch?v=63w7kHh737w) - Devcon SEA Community-Led Session: Ethereum Magicians Infinite Endgames - Ethereum Execution
+- [**Beam chain tldr**](https://youtu.be/o8n-MCAnxso?si=OQiZl3vrT9ktdzgi&t=2854) - Devcon SEA Community-Led Session: Ethereum Magicians Infinite Endgames - Ethereum Execution
     - "It's about doing a merge again / replacing the consensus layer, redesign everything with inclusion lists, make everything quantum secure, a fresh start. Get rid of Beacon Chain and replace with everything we learned from Beacon." - Guillaume
     - "Continual improvement is really a governance question and a decentralized governance problem. As an ecosystem we've gotten more conservative, need a big change, and Beam has the potential to be a significant change." - Guillaume
     - "ZK is a big part of the beam change and increased dependency on EL to have zk. The Beam change is about ZK. Also single slot and faster finality" - Alexi
