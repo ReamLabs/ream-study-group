@@ -13,6 +13,7 @@ A collection of learning materials on the Beam chain and Ream client.
 
 | №   | Date                          | Notes                           | Recordings                                |
 | --- | ----------------------------- | ------------------------------- | ----------------------------------------- |
+| 039 | Sep 23, 2025, 14:30-15:00 UTC  | [Notes](./meeting-notes/039.md) | Not available                             |
 | 038 | Sep 16, 2025, 14:30-15:00 UTC  | [Notes](./meeting-notes/038.md) | Not available                             |
 | 037 | Sep 9, 2025, 14:30-15:00 UTC  | [Notes](./meeting-notes/037.md) | Not available                             |
 | 036 | Sep 2, 2025, 14:30-15:00 UTC  | [Notes](./meeting-notes/036.md) | Not available                             |
@@ -140,31 +141,31 @@ A collection of learning materials on the Beam chain and Ream client.
 ### Discussions
 
 - **Isn't the beam chain roadmap compatible or something existing client teams (Lighthouse, Prysm, Nimbus, etc.) naturally will adopt anyway?**
-    
+
     > The plan is definitely for existing teams to write beam clients :)
-    
+
 - **Are you seeing new client teams tackling the beam chain in new ways and how?**
-    
+
     > The new client teams will add diversity (e.g. jurisdictional, financial, and language diversity) as well as add fresh blood and dynamism. I'm also hoping that the beam fork is the last significant L1 upgrade and that the new client teams can help Ethereum enter maintenance mode.
-    
+
 - **Is it necessary to comply with the current consensus spec?**
-    
+
     > Nope! Having said that, a bunch of ancillary infrastructure will be reused (e.g. libp2p, ssz, pyspec) - Justin Drake
-    
+
 - **Can we assume that Beam will use the state from a specific future block as its genesis block and proceed from there?**
-    
+
     > Yes, you can assume that :) Existing clients may want to provide support from the beacon history.
-    
+
 - **Would it be reasonable for us to focus on building components of the Beam client that are unlikely to be affected by the spec? Does this align with your vision?**
-    
+
     > Yes, potentially! In Q1 and Q2 I'll be working on a proof-of-concept design for the gossip and aggregation of post-quantum signatures. This may involve moving away from gossipsub and it would be good to have early p2p implementations in Q3 or Q4. I also expect some devs to start tinkering with zkVMs like RISC0 and SP1.
     >
     > A potential way to keep devs engaged in 2025 may be to have monthly study clubs where we go through key beam concepts. Another idea is to organise a beam retreat where researchers and devs spend several days together. There will probably also "beam days" around big conferences like EthCC and Devconnect.
-    
+
 - **Looking at the strawman timeline, it seems to me like all are beacon chain-worthy and only the "beam fork" is beam-specific?**
-    
+
     > This is how I see the separation of concerns. The incremental stuff (FOCIL, execution auctions, stake capping, Orbit) is done as part of the beacon chain. The rest is pushed to the beam chain.
-    > 
+    >
     > ![Consensus Layer Roadmap](./figures/cl-roadmap.jpeg)
 
 - **Winternitz OTS as a post-quantum signature candidate**
