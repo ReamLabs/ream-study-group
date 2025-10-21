@@ -13,6 +13,7 @@ A collection of learning materials on the Beam chain and Ream client.
 
 | №   | Date                          | Notes                           | Recordings                                |
 | --- | ----------------------------- | ------------------------------- | ----------------------------------------- |
+| 042 | Oct 21, 2025, 14:30-14:45 UTC | [Notes](./meeting-notes/042.md) | Not available                             |
 | 041 | Oct 14, 2025, 14:30-15:00 UTC | [Notes](./meeting-notes/041.md) | Not available                             |
 | 040 | Sep 30, 2025, 14:30-15:00 UTC | [Notes](./meeting-notes/040.md) | Not available                             |
 | 039 | Sep 23, 2025, 14:30-15:00 UTC | [Notes](./meeting-notes/039.md) | Not available                             |
