@@ -13,6 +13,7 @@ A collection of learning materials on the Beam chain and Ream client.
 
 | №   | Date                          | Notes                           | Recordings                                |
 | --- | ----------------------------- | ------------------------------- | ----------------------------------------- |
+| 056 | Jan 27, 2025, 14:30-15:40 UTC | [Notes](./meeting-notes/056.md) | [Study group sharing: Intro to leanMultisig Stack](https://youtu.be/5A812DZvOLI) |
 | 055 | Jan 20, 2025, 14:30-15:00 UTC | [Notes](./meeting-notes/055.md) | Not available                             |
 | 054 | Jan 13, 2025, 14:30-14:50 UTC | [Notes](./meeting-notes/054.md) | Not available                             |
 | 053 | Jan 6, 2025, 14:30-15:00 UTC  | [Notes](./meeting-notes/053.md) | Not available                             |
