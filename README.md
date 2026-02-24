@@ -13,13 +13,14 @@ A collection of learning materials on the Beam chain and Ream client.
 
 | №   | Date                          | Notes                           | Recordings                                |
 | --- | ----------------------------- | ------------------------------- | ----------------------------------------- |
-| 059 | Feb 17, 2025, 14:30-14:45 UTC  | [Notes](./meeting-notes/059.md) | Not available                             |
-| 058 | Feb 10, 2025, 14:30-15:00 UTC  | [Notes](./meeting-notes/058.md) | Not available                             |
-| 057 | Feb 3, 2025, 14:30-14:45 UTC  | [Notes](./meeting-notes/057.md) | Not available                             |
-| 056 | Jan 27, 2025, 14:30-15:40 UTC | [Notes](./meeting-notes/056.md) | [Study group sharing: Intro to leanMultisig Stack](https://youtu.be/5A812DZvOLI) |
-| 055 | Jan 20, 2025, 14:30-15:00 UTC | [Notes](./meeting-notes/055.md) | Not available                             |
-| 054 | Jan 13, 2025, 14:30-14:50 UTC | [Notes](./meeting-notes/054.md) | Not available                             |
-| 053 | Jan 6, 2025, 14:30-15:00 UTC  | [Notes](./meeting-notes/053.md) | Not available                             |
+| 060 | Feb 24, 2026, 14:30-14:45 UTC  | [Notes](./meeting-notes/060.md) | Not available                             |
+| 059 | Feb 17, 2026, 14:30-14:45 UTC  | [Notes](./meeting-notes/059.md) | Not available                             |
+| 058 | Feb 10, 2026, 14:30-15:00 UTC  | [Notes](./meeting-notes/058.md) | Not available                             |
+| 057 | Feb 3, 2026, 14:30-14:45 UTC  | [Notes](./meeting-notes/057.md) | Not available                             |
+| 056 | Jan 27, 2026, 14:30-15:40 UTC | [Notes](./meeting-notes/056.md) | [Study group sharing: Intro to leanMultisig Stack](https://youtu.be/5A812DZvOLI) |
+| 055 | Jan 20, 2026, 14:30-15:00 UTC | [Notes](./meeting-notes/055.md) | Not available                             |
+| 054 | Jan 13, 2026, 14:30-14:50 UTC | [Notes](./meeting-notes/054.md) | Not available                             |
+| 053 | Jan 6, 2026, 14:30-15:00 UTC  | [Notes](./meeting-notes/053.md) | Not available                             |
 | 052 | Dec 30, 2025, 14:30-14:45 UTC | [Notes](./meeting-notes/052.md) | Not available                             |
 | 051 | Dec 23, 2025, 14:30-15:00 UTC | [Notes](./meeting-notes/051.md) | Not available                             |
 | 050 | Dec 16, 2025, 14:30-14:45 UTC | [Notes](./meeting-notes/050.md) | Not available                             |
