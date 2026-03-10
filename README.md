@@ -13,9 +13,11 @@ A collection of learning materials on the Beam chain and Ream client.
 
 | №   | Date                          | Notes                           | Recordings                                |
 | --- | ----------------------------- | ------------------------------- | ----------------------------------------- |
-| 060 | Feb 24, 2026, 14:30-14:45 UTC  | [Notes](./meeting-notes/060.md) | Not available                             |
-| 059 | Feb 17, 2026, 14:30-14:45 UTC  | [Notes](./meeting-notes/059.md) | Not available                             |
-| 058 | Feb 10, 2026, 14:30-15:00 UTC  | [Notes](./meeting-notes/058.md) | Not available                             |
+| 062 | Mar 10, 2026, 14:30-14:45 UTC | [Notes](./meeting-notes/062.md) | Not available                             |
+| 061 | Mar 3, 2026, 14:30-14:45 UTC  | [Notes](./meeting-notes/061.md) | Not available                             |
+| 060 | Feb 24, 2026, 14:30-14:45 UTC | [Notes](./meeting-notes/060.md) | Not available                             |
+| 059 | Feb 17, 2026, 14:30-14:45 UTC | [Notes](./meeting-notes/059.md) | Not available                             |
+| 058 | Feb 10, 2026, 14:30-15:00 UTC | [Notes](./meeting-notes/058.md) | Not available                             |
 | 057 | Feb 3, 2026, 14:30-14:45 UTC  | [Notes](./meeting-notes/057.md) | Not available                             |
 | 056 | Jan 27, 2026, 14:30-15:40 UTC | [Notes](./meeting-notes/056.md) | [Study group sharing: Intro to leanMultisig Stack](https://youtu.be/5A812DZvOLI) |
 | 055 | Jan 20, 2026, 14:30-15:00 UTC | [Notes](./meeting-notes/055.md) | Not available                             |
