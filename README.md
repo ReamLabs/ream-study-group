@@ -13,6 +13,7 @@ A collection of learning materials on the Beam chain and Ream client.
 
 | №   | Date                          | Notes                           | Recordings                                |
 | --- | ----------------------------- | ------------------------------- | ----------------------------------------- |
+| 068 | Apr 21, 2026, 14:30-15:40 UTC | [Notes](./meeting-notes/068.md) | [Study group sharing: WHIR introduction](https://youtu.be/tqs5xCQdVxk) |
 | 067 | Apr 14, 2026, 14:30-14:45 UTC | [Notes](./meeting-notes/067.md) | Not available                             |
 | 066 | Apr  8, 2026, 14:30-15:00 UTC | [Notes](./meeting-notes/066.md) | Not available                             |
 | 065 | Mar 31, 2026, 14:30-15:00 UTC | [Notes](./meeting-notes/065.md) | Not available                             |
