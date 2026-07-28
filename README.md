@@ -13,6 +13,7 @@ A collection of learning materials on the Beam chain and Ream client.
 
 | №   | Date                          | Notes                           | Recordings                                |
 | --- | ----------------------------- | ------------------------------- | ----------------------------------------- |
+| 081 | Jul 21, 2026, 14:30-14:50 UTC | [Notes](./meeting-notes/081.md) | Not available                             |
 | 080 | Jul 14, 2026, 14:30-15:00 UTC | [Notes](./meeting-notes/080.md) | Not available                             |
 | 079 | Jul  7, 2026, 14:30-14:54 UTC | [Notes](./meeting-notes/079.md) | Not available                             |
 | 078 | Jun 30, 2026, 14:30-14:57 UTC | [Notes](./meeting-notes/078.md) | Not available                             |
